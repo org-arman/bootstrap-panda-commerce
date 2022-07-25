@@ -1,0 +1,17 @@
+.btn-panda{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.bg-panda{
+    background-color: #fceae8;
+}
+
+.text-panda{
+    color: #ff1470;
+    font-weight: 600;
+}
